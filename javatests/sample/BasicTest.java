@@ -13,4 +13,3 @@ public final class BasicTest {
             new Sample().test());
     }
 }
-
